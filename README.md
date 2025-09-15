@@ -1,12 +1,12 @@
 # Ex02 Django ORM Web Application
-## Date: 10-09-2025
+## Date: 15-09-2025
 
 ## AIM
 To develop a Django application to store and retrieve data from Movies Database using Object Relational Mapping(ORM).
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
-
+![alt text](<Screenshot 2025-09-15 144123.png>)
 
 ## DESIGN STEPS
 
@@ -49,7 +49,7 @@ admin.site.register(Movie_DB, Movie_DBAdmin)
 
 ## OUTPUT
 
-![alt text](<Screenshot (97).png>)
+![alt text](<Screenshot (103).png>)
 
 
 ## RESULT
